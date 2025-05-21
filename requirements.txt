@@ -1,0 +1,9 @@
+# Core Libraries
+yt-dlp
+ffmpeg-python
+Pillow
+PyQt6
+python-docx
+pypandoc
+plyer
+pyinstaller
